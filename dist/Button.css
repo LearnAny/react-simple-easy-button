@@ -1,0 +1,106 @@
+button {
+    padding: 10px;
+    border-radius: 4px;
+    color: #fff;
+  }
+  button:hover {
+    cursor: pointer;
+  }
+  .primary {
+    background-color: #0d6efd;
+    border: none;
+  }
+  .secondary {
+    background-color: #6c757d;
+    border: none;
+  }
+  .success {
+    background-color: #198754;
+    border: none;
+  }
+  .warning {
+    background-color: #ffc107;
+    color: #212529;
+    border: none;
+  }
+  .danger {
+    background-color: #dc3545;
+    border: none;
+  }
+  
+  .primary:hover {
+    background-color: #1464de;
+  }
+  .secondary:hover {
+    background-color: #5e6871;
+  }
+  .success:hover {
+    background-color: #18764a;
+  }
+  .warning:hover {
+    background-color: #ebbc31;
+  }
+  .danger:hover {
+    background-color: #c92636;
+  }
+  
+  .primary-outlined {
+    border: 1px solid #0d6efd;
+    color: #0d6efd;
+    background-color: #fff;
+  }
+  .secondary-outlined {
+    border: 1px solid #6c757d;
+    color: #6c757d;
+    background-color: #fff;
+  }
+  .success-outlined {
+    border: 1px solid #198754;
+    color: #198754;
+    background-color: #fff;
+  }
+  .warning-outlined {
+    border: 1px solid #ffc107;
+    color: #ffc107;
+    background-color: #fff;
+  }
+  .danger-outlined {
+    border: 1px solid #dc3545;
+    color: #dc3545;
+    background-color: #fff;
+  }
+  
+  .primary-outlined:hover {
+    background-color: #0d6efd;
+    border: none;
+    color: #fff;
+  }
+  .secondary-outlined:hover {
+    background-color: #6c757d;
+    border: none;
+    color: #fff;
+  }
+  .success-outlined:hover {
+    background-color: #198754;
+    border: none;
+    color: #fff;
+  }
+  .warning-outlined:hover {
+    background-color: #ffc107;
+    border: none;
+    color: #fff;
+  }
+  .danger-outlined:hover {
+    background-color: #6c757d;
+    border: none;
+    color: #fff;
+  }
+  .elevate {
+    -webkit-box-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.44);
+    -moz-box-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.44);
+    box-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.44);
+  }
+  .disabled {
+    opacity: 0.5;
+  }
+  
